@@ -1,0 +1,6 @@
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  @include background-grid;
+  @extend %cf;
+}

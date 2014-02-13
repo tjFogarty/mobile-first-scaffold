@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-compass": "*",
+    "matchdep": "*",
+    "grunt-autoprefixer": "~0.6.5"
+  }
+}

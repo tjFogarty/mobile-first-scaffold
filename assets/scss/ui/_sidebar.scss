@@ -1,0 +1,9 @@
+.sidebar {
+  @include breakpoint(500px) {
+    @include grid-span(2, 5, 6);
+  }
+
+  @include breakpoint(767px) {
+    @include grid-span(3, 10, 12);
+  }
+}
