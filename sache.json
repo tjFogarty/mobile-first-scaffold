@@ -1,5 +1,5 @@
 {
   "name": "Mobile First Scaffold",
   "description": "Mobile first scaffold using Grunt and Compass",
-  "tags": ["grunt", "autoprefixer", "mobile-first"]
+  "tags": ["grunt", "autoprefixer", "mobile-first", "responsive", "singularity"]
 }
